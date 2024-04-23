@@ -1,0 +1,10 @@
+https://www.youtube.com/watch?v=Ra3-KSnILNI
+//Do this in loaded first installed system
+
+grep menuentry /boot/grub/grub.cfg
+
+//find this 'KDE neon 6.0 (22.04) (on /dev/sda5)'
+
+sudo nano /etc/default/grub
+    //GRUB_DEFAULT='KDE neon 6.0 (22.04) (on /dev/sda5)'
+sudo update-grub

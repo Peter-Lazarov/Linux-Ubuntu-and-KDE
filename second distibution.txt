@@ -1,0 +1,12 @@
+1. boot partition or similar - existing > set boot-grub flag
+2. create partition 35GB and map it for root with flag
+3. home partition - existing > set mapping for home path on it
+4. ignore warning for 8mb unformated partition if you have other Linux installed
+
+https://www.youtube.com/watch?v=7od9dPf4gnM
+5. after installation if there is no boot grub menu then you need to set it
+6. konsole > sudo nano /etc/default/grub > GRUB_TIMEOUT_STYLE=hidden > menu >
+GRUB_TIMEOUT=5
+GRUB_DISABLE_OS_PROBER=false //uncomment
+7. sudo update-grub
+8. restart and see

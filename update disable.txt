@@ -1,0 +1,3 @@
+//code is Visual Studio Code
+sudo apt-mark hold code
+

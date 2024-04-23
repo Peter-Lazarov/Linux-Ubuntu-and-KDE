@@ -1,0 +1,1 @@
+System Settings → Colors & Themes → Login Screen (SDDM): Click the “Behavior” button up top. Top checkbox you can go to the dropdown & select X11

@@ -1,0 +1,6 @@
+//enable indexing of files
+//search *.jpg
+
+balooctl status
+balooctl enable
+

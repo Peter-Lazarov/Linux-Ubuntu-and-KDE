@@ -1,0 +1,3 @@
+sudo apt list --installed
+sudo apt-get remove vlc -y
+sudo apt-get remove wslu -y

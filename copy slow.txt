@@ -1,0 +1,6 @@
+https://askubuntu.com/questions/1117832/copying-files-from-pc-to-pendrive-gets-stuck-at-the-end-on-ubuntu-16-04
+at as su
+/etc/sysctl.conf
+
+add this line
+echo vm.dirty_bytes=15000000 | sudo tee -a /etc/sysctl.conf
