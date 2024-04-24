@@ -1,0 +1,8 @@
+ubuntu-drivers devices
+//chose desired driver
+
+sudo apt install nvidia-driver-535
+
+//to show graphic card parameters
+nvidia-smi
+
