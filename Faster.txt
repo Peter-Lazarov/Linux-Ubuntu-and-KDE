@@ -1,3 +1,8 @@
 https://ubuntuforums.org/showthread.php?t=1889034
 Desktop Effects
 Compositor > lower latency
+
+//Plasma 6
+Desktop Effects - most of them turn off
+Turn off Baloo (desktop File search)
+Compositor - turn off
