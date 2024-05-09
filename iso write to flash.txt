@@ -1,0 +1,3 @@
+right click on flash to see mounted from
+
+sudo dd if=EndeavourOS_Gemini-2024.04.20.iso of=/dev/sdc1
