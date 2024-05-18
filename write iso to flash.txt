@@ -1,0 +1,13 @@
+right click on flash to see mounted from
+
+sudo dd if=cachyos-kde-linux-240512.iso of=/dev/sdc1 status=progress
+
+
+
+---------------
+
+Cachy os do not boot from flash
+so another try with GPT Partition table
+sudo dd if=./cachyos-kde-linux-240512.iso of=/dev/sdc1 bs=4M status=progress oflag=sync
+
+
