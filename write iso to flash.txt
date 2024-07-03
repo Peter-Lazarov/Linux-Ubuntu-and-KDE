@@ -1,7 +1,8 @@
 right click on flash to see mounted from
 
 sudo dd if=cachyos-kde-linux-240512.iso of=/dev/sdc1 status=progress
-
+(this will make flash for UEFI boot only)
+(for legacy boot I use rufus on Windows 8.1 and format flash as MBR)
 
 
 ---------------
