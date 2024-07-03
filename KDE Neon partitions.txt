@@ -1,5 +1,0 @@
-1. GPT Table - it is good to use GPT because it allow more than 4 primary partitions
-2. Unformated 9 mb with bios-grub flag
-3. Create partition 35 GB and map it for / (root)
-4. Home partition 50-70 GB and map it for /home
-5. linuxswap 16 GB for Computer with 16 GB RAM flag swap
